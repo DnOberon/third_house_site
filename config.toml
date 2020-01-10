@@ -1,5 +1,5 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseurl = "https://thirdhousesoftware.com"
+title = "Third House Software"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
 languageCode = "en-us"
