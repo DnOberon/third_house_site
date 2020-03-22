@@ -1,5 +1,6 @@
 weight: 1
-name: "Webdesign"
+name: "Data Warehousing"
 icon: "fas fa-desktop"
 url: ""
-description: "Build a presence on the web and broaden your capability to serve and gain new customers. From server to page we can help you every step of the way."
+description: "We provide custom data warehouse solutions no matter what your data sources look like. We can help with every aspect of data warehousing, from data ingestion to visualization and beyond."
+
